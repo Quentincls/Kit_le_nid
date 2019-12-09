@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0728d300-1a60-11ea-83e1-e990eb461a0b",
+  "do_objectID": "0F9B0418-E096-407A-AAC1-1F9E604DBAE7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,46 +22,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 485,
+    "width": 414,
+    "x": 1590,
+    "y": 504
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "artboard",
-      "id": "13A7AADB-157A-44F3-949B-2DF8990675F4"
-    },
-    {
-      "class": "artboard",
-      "id": "0F9B0418-E096-407A-AAC1-1F9E604DBAE7"
-    }
   ],
   "maintainScrollPosition": false,
-  "name": "Page 1",
+  "name": "Artboard",
   "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -89,7 +94,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "998C7A53-FFD0-4678-B73D-5C482A41BDFA",
+    "do_objectID": "5A1A9193-D16E-4389-884A-73DFC5BFBCA1",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,7 +108,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
