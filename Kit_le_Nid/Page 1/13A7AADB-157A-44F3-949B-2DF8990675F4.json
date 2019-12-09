@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0728d300-1a60-11ea-83e1-e990eb461a0b",
+  "do_objectID": "13A7AADB-157A-44F3-949B-2DF8990675F4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +22,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 481,
+    "width": 573,
+    "x": 689,
+    "y": 201
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "artboard",
-      "id": "13A7AADB-157A-44F3-949B-2DF8990675F4"
-    }
   ],
   "maintainScrollPosition": false,
-  "name": "Page 1",
+  "name": "Artboard",
   "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -85,7 +94,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "998C7A53-FFD0-4678-B73D-5C482A41BDFA",
+    "do_objectID": "C68C8CEE-A702-48CE-B2A6-1BF0378C4BC6",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -99,7 +108,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
